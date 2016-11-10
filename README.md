@@ -21,4 +21,5 @@ This project was done to demonstrate the optimization of a website to 60 fps
 
 1. Download the repository
 2. Extract all to your documents directory
-3. Double Click the index.html file and run in the browser
+3. Double Click the index.html file and run in the browser to see index.html
+4. to see pizza.html, go to the views directory and doubleclick pizza.html
