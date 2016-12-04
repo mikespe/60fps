@@ -1,4 +1,4 @@
-#Summary
+#Summary 
 
 This project was done to demonstrate the optimization of a website to 60 fps
 
@@ -29,7 +29,7 @@ This project was done to demonstrate the optimization of a website to 60 fps
 8.  moved font data uri to css using @font-face - removed fetching and blocking of crp
 
 
-##How to run
+#How to run
 
 1. Download the repository
 2. Extract all to your documents directory
